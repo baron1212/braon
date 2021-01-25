@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 50px;
+    font-family: "한컴바탕";
+    font-weight: bold;
+    color: #ffffff; 
+}
+
+h1 span:nth-child(1) {
+    color: #000000;
+}
+h1 span:nth-child(2) {
+    color: #000000;
+}
+h1 span:nth-child(3) {
+    color: #000000;
+}
+h1 span:nth-child(4) {
+    color: #000000;
+}
+h1 span:nth-child(5) {
+    color: #797878;
+}
+h1 span:nth-child(6) {
+    color: #797878;
+}
+h1 span:nth-child(7) {
+    color: #797878;
+}
+h1 span:nth-child(8) {
+    color: #797878;
+}
+hr.one{width:1000px; border: thin solid black;}
+
+div.a{
+    position: relative;
+    width: 400px;
+    right: -800px;
+    border: 3px solid #73AD21;
+}
+div.b{
+    
+    width: 400px;
+    right: 100px;
+    border: 3px solid #73AD21
+}
+hr.two{width:1000px; border: thin solid black;}
+
+div.s{
+    text-align: center;
+}
